@@ -1,0 +1,17 @@
+C:\Users\VMF PRO\Desktop\Lalala\TextGameBase-main\TextGameBase-main\TextGameBase\TextGameBase\bin\Debug\net7.0\TextGameBase.exe
+C:\Users\VMF PRO\Desktop\Lalala\TextGameBase-main\TextGameBase-main\TextGameBase\TextGameBase\bin\Debug\net7.0\TextGameBase.deps.json
+C:\Users\VMF PRO\Desktop\Lalala\TextGameBase-main\TextGameBase-main\TextGameBase\TextGameBase\bin\Debug\net7.0\TextGameBase.runtimeconfig.json
+C:\Users\VMF PRO\Desktop\Lalala\TextGameBase-main\TextGameBase-main\TextGameBase\TextGameBase\bin\Debug\net7.0\TextGameBase.dll
+C:\Users\VMF PRO\Desktop\Lalala\TextGameBase-main\TextGameBase-main\TextGameBase\TextGameBase\bin\Debug\net7.0\TextGameBase.pdb
+C:\Users\VMF PRO\Desktop\Lalala\TextGameBase-main\TextGameBase-main\TextGameBase\TextGameBase\bin\Debug\net7.0\LiteDB.dll
+C:\Users\VMF PRO\Desktop\Lalala\TextGameBase-main\TextGameBase-main\TextGameBase\TextGameBase\obj\Debug\net7.0\TextGameBase.csproj.AssemblyReference.cache
+C:\Users\VMF PRO\Desktop\Lalala\TextGameBase-main\TextGameBase-main\TextGameBase\TextGameBase\obj\Debug\net7.0\TextGameBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VMF PRO\Desktop\Lalala\TextGameBase-main\TextGameBase-main\TextGameBase\TextGameBase\obj\Debug\net7.0\TextGameBase.AssemblyInfoInputs.cache
+C:\Users\VMF PRO\Desktop\Lalala\TextGameBase-main\TextGameBase-main\TextGameBase\TextGameBase\obj\Debug\net7.0\TextGameBase.AssemblyInfo.cs
+C:\Users\VMF PRO\Desktop\Lalala\TextGameBase-main\TextGameBase-main\TextGameBase\TextGameBase\obj\Debug\net7.0\TextGameBase.csproj.CoreCompileInputs.cache
+C:\Users\VMF PRO\Desktop\Lalala\TextGameBase-main\TextGameBase-main\TextGameBase\TextGameBase\obj\Debug\net7.0\TextGameBase.csproj.CopyComplete
+C:\Users\VMF PRO\Desktop\Lalala\TextGameBase-main\TextGameBase-main\TextGameBase\TextGameBase\obj\Debug\net7.0\TextGameBase.dll
+C:\Users\VMF PRO\Desktop\Lalala\TextGameBase-main\TextGameBase-main\TextGameBase\TextGameBase\obj\Debug\net7.0\refint\TextGameBase.dll
+C:\Users\VMF PRO\Desktop\Lalala\TextGameBase-main\TextGameBase-main\TextGameBase\TextGameBase\obj\Debug\net7.0\TextGameBase.pdb
+C:\Users\VMF PRO\Desktop\Lalala\TextGameBase-main\TextGameBase-main\TextGameBase\TextGameBase\obj\Debug\net7.0\TextGameBase.genruntimeconfig.cache
+C:\Users\VMF PRO\Desktop\Lalala\TextGameBase-main\TextGameBase-main\TextGameBase\TextGameBase\obj\Debug\net7.0\ref\TextGameBase.dll

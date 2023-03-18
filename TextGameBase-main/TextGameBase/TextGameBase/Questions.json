@@ -1,0 +1,132 @@
+[
+    {
+        "Id":-1,
+        "Text":"Você morreu.",
+        "Responses":
+        [
+            {
+                "Sequence": 1,
+                "Text": "Vamos começar.",
+                "TargetId": 1
+            },
+            {
+                "Sequence": 2,
+                "Text": "Não quero jogar.",
+                "TargetId": 0
+            }
+        ]
+    },
+    {
+        "Id":1,
+        "Text":"Olá <NOME>, bem vindo ao ZombiEs, aqui você deve fazer a escolha certa, caso contrário... Fim de jogo.",
+        "Responses":
+        [
+            {
+                "Sequence": 1,
+                "Text": "Vamos começar.",
+                "TargetId": 2
+            },
+            {
+                "Sequence": 2,
+                "Text": "Não quero jogar.",
+                "TargetId": 0
+            }
+        ]
+    },
+    {
+        "Id":2,
+        "Text":"Você acorda (7:45 da manhã) e descobre que na cidade em que você mora está ocorrendo um surto em que as pessoas contaminadas perdem o controle sobre o próprio corpo e ficam extremamente violentas, podendo até matar umas às outras, como se fossem zumbis.\n De repente você escuta batidas fortes vindo da porta de sua casa, você vê seu viznho que está contaminado e ele parece estar com muita fome.\n\n O que você faz?",
+        "Responses":
+        [
+            {
+                "Sequence": 1,
+                "Text": "Vou até a cozinha e pego uma faca para me defender do ataque",
+                "TargetId": 3
+            },
+            {
+                "Sequence": 2,
+                "Text": "Não acho que eu esteja fazendo o meu melhor, sinto que ainda posso melhorar muito, mas para isso o desempenho do carro teria que ser aprimorado.",
+                "TargetId": 0
+            },
+            {
+                "Sequence": 3,
+                "Text": "Sinto que estou indo mal no campeonato, não pelo pequeno número de pódios, mas sim pelo clima que está tendo dentro da oficina",
+                "TargetId": 0
+            },
+            {
+                "Sequence": 0,
+                "Text": "Sair do jogo.",
+                "TargetId": 0
+            }
+        ]
+    },
+    {
+        "Id":3,
+        "Text":"Você está satisfeito com o desempenho da sua nova equipe? Engenheiros, chefe de equipe e mecânicos.",
+        "Responses":
+        [
+            {
+                "Sequence": 1,
+                "Text": "Sim, estou bem satisfeito com o desempenho deles, as estratégias estão boas e os pitstops estão considerávelmente rápidos",
+                "TargetId": 0
+            },
+            {
+                "Sequence": 2,
+                "Text": "A equipe em si está boa, porém eles tem muito potêncial para uma possível melhora, um exeplo disso foi a estratégia de pneus falha da última corrida",
+                "TargetId": 0
+            },
+            {
+                "Sequence": 0,
+                "Text": "Sair do jogo.",
+                "TargetId": 0
+            }
+            
+        ]
+    },
+    {
+        "Id":4,
+        "Text":"Odeia o Verstappen?",
+        "Responses":
+        [
+            {
+                "Sequence": 1,
+                "Text": "Sim",
+                "TargetId": 0
+            },
+            {
+                "Sequence": 2,
+                "Text": "Claro",
+                "TargetId": 0
+            },
+            {
+                "Sequence": 0,
+                "Text": "Sair do jogo.",
+                "TargetId": 0
+            },
+            {
+                "Id":3,
+                "Text":"Odeia o Verstappen?",
+                "Responses":
+                [
+                    {
+                        "Sequence": 1,
+                        "Text": "Sim",
+                        "TargetId": 0
+                    },
+                    {
+                        "Sequence": 2,
+                        "Text": "Claro",
+                        "TargetId": 0
+                    },
+                    {
+                        "Sequence": 0,
+                        "Text": "Sair do jogo.",
+                        "TargetId": 0
+                    }
+                    
+                ]
+            }
+        ]
+    } 
+    
+]

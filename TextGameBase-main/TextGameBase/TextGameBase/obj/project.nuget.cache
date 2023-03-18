@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WEsWMP0c73s4qT12NgQyechwyjtFx+P4PyiqHwDnEznRxAGSgz/+xQ6KQO5tREk4PWal5mxv7dU9/CItRO3dPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VMF PRO\\Desktop\\Lalala\\TextGameBase-main\\TextGameBase-main\\TextGameBase\\TextGameBase\\TextGameBase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VMF PRO\\.nuget\\packages\\litedb\\5.0.16\\litedb.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
